@@ -6,7 +6,7 @@ Auto Fib Extension（自动斐波那契扩展，简称 AFE ）是基于**斐波�
 
 核心依赖**斐波那契比例**（0.618、1.0、1.618、2.618 等 ），步骤：
 
-![image-20250731133902735](D:\pythonproject\code\trade_test\summary\知识\7Auto_Fib_Extension\photo\image-20250731133902735.png)
+![image-20250731133902735](.\photo\image-20250731133902735.png)
 
 ## 意义
 
@@ -46,6 +46,8 @@ Auto Fib Extension（自动斐波那契扩展，简称 AFE ）是基于**斐波�
    价格到达扩展位后，可能 “假突破”（短暂突破后回落 ），需结合 K 线形态、成交量确认。
 3. **市场适应性**：
    在**强趋势市场**（如加密货币、期货单边行情 ）中效果好；在**震荡市**中，扩展位易频繁触及，信号噪音大。
+
+https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=5659753196716025cbfb2974ce97d412
 
 ## **示例**（加密货币市场）：
 

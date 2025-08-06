@@ -4,7 +4,7 @@
 
 ## 计算公式
 
-![image-20250724180235968](D:\pythonproject\code\trade_test\summary\知识\AdvanceDecline_Ratio_(Bars)\photo\image-20250724180235968.png)
+![image-20250724180235968](.\photo\image-20250724180235968.png)
 
 ## 意义
 

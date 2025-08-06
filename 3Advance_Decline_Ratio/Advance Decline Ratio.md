@@ -4,7 +4,7 @@ Advance - Decline Ratio（涨跌比率，简称 ADR ），是技术分析里用�
 
 ## 计算公式
 
-![image-20250723140128170](D:\pythonproject\code\trade_test\summary\知识\3Advance_Decline_Ratio\photo\image-20250723140128170.png)
+![image-20250723140128170](.\photo\image-20250723140128170.png)
 
 ## 意义
 

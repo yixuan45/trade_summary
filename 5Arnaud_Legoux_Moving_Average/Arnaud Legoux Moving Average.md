@@ -6,7 +6,7 @@ Arnaud Legoux Moving Average（ALMA，阿诺德・勒古移动平均线 ）由 A
 
 ALMA 核心是**带高斯偏移的加权移动平均**，公式拆解为：
 
-![image-20250725164450870](D:\pythonproject\code\trade_test\summary\知识\5Arnaud_Legoux_Moving_Average\photo\image-20250725164450870.png)
+![image-20250725164450870](.\photo\image-20250725164450870.png)
 
 ## 意义
 

@@ -4,7 +4,7 @@ Accumulation/Distribution（A/D 指标，累积派发指标），又称为能量
 
 ## 计算公式
 
-![image-20250723104434737](D:\pythonproject\code\trade_test\summary\知识\1Accumulation_Distribution\photo\image-20250723104434737.png)
+![image-20250723104434737](.\photo\image-20250723104434737.png)
 
 ## 意义
 

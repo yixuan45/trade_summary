@@ -4,7 +4,7 @@ Advance - Decline Line（涨跌线，简称 ADL ），是技术分析领域用�
 
 ## 计算公式
 
-![image-20250723110129252](D:\pythonproject\code\trade_test\summary\知识\2Advance_Decline_Line\photo\image-20250723110129252.png)
+![image-20250723110129252](.\photo\image-20250723110129252.png)
 
 ## 指标意义
 

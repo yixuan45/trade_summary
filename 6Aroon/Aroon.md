@@ -4,7 +4,7 @@ Aroon（阿隆指标 ）由 Tushar Chande 于 1995 年提出，是用于识别**
 
 ## 计算公式
 
-![image-20250731111702761](D:\pythonproject\code\trade_test\summary\知识\6Aroon\photo\image-20250731111702761.png)
+![image-20250731111702761](.\photo\image-20250731111702761.png)
 
 ## 意义
 
