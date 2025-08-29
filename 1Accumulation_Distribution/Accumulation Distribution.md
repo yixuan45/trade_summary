@@ -23,3 +23,14 @@ Accumulation/Distribution（A/D 指标，累积派发指标），又称为能量
 
 ![image-20250723104647394](D:\pythonproject\code\trade_test\summary\知识\1Accumulation_Distribution\photo\image-20250723104647394.png)
 
+## 趋势的确定
+
+![image-20250828112633248](.\photo\1)
+
+## 背离
+
+![image-20250828112718613](.\photo\2)
+
+## 回测
+
+![image-20250828145835485](.\photo\3)
